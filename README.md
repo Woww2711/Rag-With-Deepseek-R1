@@ -172,7 +172,7 @@ This will launch a Gradio web interface where you can ask questions about your d
 
 1.  **Document Ingestion** (`ingest_pdfs.py`):
 
-- Loads PDFs from the `data` directory
+- Loads PDFs from the `data` directory (PDFs from the data folder are generated randomly by Claude, you can upload your own database and knowledge)
 
 - Splits documents into chunks of 1000 characters with 200 characters overlap 
 
